@@ -1,0 +1,44 @@
+html{
+    background-color: bisque;
+    color: black;
+}
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+table {
+    width: 100%;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+    text-align: center;
+  }
+p{
+    font-size:20px;
+}
+ul{
+    font-size: 20px;
+}
+hr.one{
+    border: 3px solid green;
+}
+hr.two{
+    border: 3px solid white;
+}
+hr.three{
+    border: 3px solid red ;
+}
+a:link, a:visited {
+    background-color: green;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
